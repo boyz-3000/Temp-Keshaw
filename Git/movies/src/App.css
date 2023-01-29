@@ -7,3 +7,13 @@ h1{
     font-family: 'Dancing Script', cursive;
     font-size: 5rem;
 }
+
+.movie-item{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.item{
+    text-align: center;
+}
